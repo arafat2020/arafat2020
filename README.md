@@ -15,6 +15,16 @@ I am just an introverted programmer who prefers to do things in an old-school fa
 ## 📈 GitHub Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=arafat2020&theme=tokyo-night)
 
+### 🐍 Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafat2020/arafat2020/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arafat2020/arafat2020/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 🧊 3D Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafat2020&theme=tokyonight)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
