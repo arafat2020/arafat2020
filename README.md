@@ -16,7 +16,7 @@ I am just an introverted programmer who prefers to do things in an old-school fa
 ![](https://github-readme-activity-graph.vercel.app/graph?username=arafat2020&theme=tokyo-night)
 
 ### 🧠 LeetCode Stats
-![](https://github-readme-leetcode.vercel.app/api?username=mannan2025&theme=dark)
+![](https://leetcard.jacoblin.cool/mannan2025?theme=dark)
 
 
 ### 🧊 3D Stats
