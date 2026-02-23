@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am just an introverted programmer who prefers to do things in an old-school fashion. <br>I took this journey to be an evergreen programmer and hope I will reach that tier.
+I am an introverted programmer who enjoys focused, independent work and values traditional, proven approaches to software development. My goal is to continuously grow and become a well-rounded, long-lasting contributor in the field.
 
 
 ## 🌐 Socials:
